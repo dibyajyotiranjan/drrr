@@ -12,3 +12,4 @@ function App() {
 }
 
 export default App;
+// npm install react-scripts@2.1.8
