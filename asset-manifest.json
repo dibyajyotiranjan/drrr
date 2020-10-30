@@ -1,23 +1,16 @@
 {
-  "files": {
-    "main.css": "/.github.io/instagramclone/static/css/main.9a180f25.chunk.css",
-    "main.js": "/.github.io/instagramclone/static/js/main.fb72f125.chunk.js",
-    "main.js.map": "/.github.io/instagramclone/static/js/main.fb72f125.chunk.js.map",
-    "runtime-main.js": "/.github.io/instagramclone/static/js/runtime-main.6aace4a1.js",
-    "runtime-main.js.map": "/.github.io/instagramclone/static/js/runtime-main.6aace4a1.js.map",
-    "static/js/2.cf4944b8.chunk.js": "/.github.io/instagramclone/static/js/2.cf4944b8.chunk.js",
-    "static/js/2.cf4944b8.chunk.js.map": "/.github.io/instagramclone/static/js/2.cf4944b8.chunk.js.map",
-    "static/js/3.289cc5a2.chunk.js": "/.github.io/instagramclone/static/js/3.289cc5a2.chunk.js",
-    "static/js/3.289cc5a2.chunk.js.map": "/.github.io/instagramclone/static/js/3.289cc5a2.chunk.js.map",
-    "index.html": "/.github.io/instagramclone/index.html",
-    "static/css/main.9a180f25.chunk.css.map": "/.github.io/instagramclone/static/css/main.9a180f25.chunk.css.map",
-    "static/js/2.cf4944b8.chunk.js.LICENSE.txt": "/.github.io/instagramclone/static/js/2.cf4944b8.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/.github.io/instagramclone/static/media/logo.103b5fa1.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.6aace4a1.js",
-    "static/js/2.cf4944b8.chunk.js",
-    "static/css/main.9a180f25.chunk.css",
-    "static/js/main.fb72f125.chunk.js"
-  ]
+  "main.css": "/.github.io/drr/static/css/main.c93feca5.chunk.css",
+  "main.js": "/.github.io/drr/static/js/main.ed3d6bed.chunk.js",
+  "main.js.map": "/.github.io/drr/static/js/main.ed3d6bed.chunk.js.map",
+  "runtime~main.js": "/.github.io/drr/static/js/runtime~main.46fa3c6f.js",
+  "runtime~main.js.map": "/.github.io/drr/static/js/runtime~main.46fa3c6f.js.map",
+  "static/js/2.12e3c55b.chunk.js": "/.github.io/drr/static/js/2.12e3c55b.chunk.js",
+  "static/js/2.12e3c55b.chunk.js.map": "/.github.io/drr/static/js/2.12e3c55b.chunk.js.map",
+  "static/js/3.83787b9b.chunk.js": "/.github.io/drr/static/js/3.83787b9b.chunk.js",
+  "static/js/3.83787b9b.chunk.js.map": "/.github.io/drr/static/js/3.83787b9b.chunk.js.map",
+  "index.html": "/.github.io/drr/index.html",
+  "precache-manifest.9abda088adbbdccc41cb2128daa00c24.js": "/.github.io/drr/precache-manifest.9abda088adbbdccc41cb2128daa00c24.js",
+  "service-worker.js": "/.github.io/drr/service-worker.js",
+  "static/css/main.c93feca5.chunk.css.map": "/.github.io/drr/static/css/main.c93feca5.chunk.css.map",
+  "static/media/logo.svg": "/.github.io/drr/static/media/logo.5d5d9eef.svg"
 }
